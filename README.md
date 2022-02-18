@@ -485,23 +485,23 @@ PictureSelector.create(MainActivity.this).externalPictureVideo(video_path);
 ## 兼容性测试
 ******腾讯优测-深度测试-通过率达到100%******
 
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/test.png)
+![image](https://github.com/LuckSiege/PictureSelector/master/image/test.png)
 
 ## 演示效果
 
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/1.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/2.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/3.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/4.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/white.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/blue.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/11.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/5.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/6.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/7.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/8.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/audio.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/9.jpg)
-![image](https://github.com/LuckSiege/PictureSelector/blob/master/image/10.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/1.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/2.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/3.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/4.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/white.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/blue.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/11.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/5.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/6.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/7.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/8.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/audio.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/9.jpg)
+![image](https://github.com/LunkLing/PictureSelector/image/10.jpg)
 
 
